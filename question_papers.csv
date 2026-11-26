@@ -1,0 +1,13 @@
+paper_id,subject,semester,academic_year,exam_type,total_marks
+P001,Data Structures,Semester 1,2021-22,End Semester,50
+P002,Data Structures,Semester 1,2022-23,End Semester,50
+P003,Data Structures,Semester 1,2023-24,Supplementary,50
+P004,Data Structures,Semester 1,2024-25,End Semester,50
+P005,Python Programming,Semester 1,2021-22,End Semester,50
+P006,Python Programming,Semester 1,2022-23,End Semester,50
+P007,Python Programming,Semester 1,2023-24,End Semester,50
+P008,Python Programming,Semester 1,2024-25,Supplementary,50
+P009,Database Management Systems,Semester 2,2021-22,End Semester,50
+P010,Database Management Systems,Semester 2,2022-23,End Semester,50
+P011,Database Management Systems,Semester 2,2023-24,End Semester,50
+P012,Database Management Systems,Semester 2,2024-25,End Semester,50
